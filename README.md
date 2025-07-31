@@ -32,4 +32,18 @@ Design and implementation of 4-bit ALU using 90nm CMOS technology
 
 <img width="4000" height="4000" alt="Screenshot from 2024-11-10 04-13-15" src="https://github.com/user-attachments/assets/96516802-b070-4b1b-b14a-69a6e14c2223" />
 
+<img width="4980" height="2120" alt="Screenshot from 2025-01-20 01-11-47" src="https://github.com/user-attachments/assets/667bfe55-9955-46ce-9cc8-852102b24d09" />
+
+<img width="5290" height="1990" alt="Screenshot from 2025-01-20 01-11-42" src="https://github.com/user-attachments/assets/26eb0a88-3209-460d-acfd-31a36c172d91" />
+
+<img width="6573" height="2823" alt="Screenshot from 2025-01-20 01-11-17" src="https://github.com/user-attachments/assets/cc2674bd-f617-4bc7-91ba-8bd9300a7654" />
+
+<img width="6584" height="2844" alt="Screenshot from 2025-01-20 01-11-08" src="https://github.com/user-attachments/assets/6c4cb98d-01b6-4584-877b-26e54ce52ef4" />
+
+<img width="6573" height="2854" alt="Screenshot from 2025-01-20 01-10-49" src="https://github.com/user-attachments/assets/c63d1d8f-512c-49d3-929c-e7f9d46823fd" />
+
+<img width="6584" height="2844" alt="Screenshot from 2025-01-20 01-10-31" src="https://github.com/user-attachments/assets/3077d918-8552-4ca3-b452-f3a85a587d9e" />
+
+
+
 
