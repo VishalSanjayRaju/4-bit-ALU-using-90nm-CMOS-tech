@@ -3,7 +3,7 @@ Design and implementation of 4-bit ALU using 90nm CMOS technology
 
 ![architecture](https://github.com/user-attachments/assets/2f28f094-5046-49cd-982f-1b9992a1215e)
 
-<img width="4000" height="4000" alt="Screenshot from 2024-11-10 04-23-39" src="https://github.com/user-attachments/assets/f303776c-33eb-41d8-bc9c-43e36a5a9338" />
+<img width="2000" height="2000" alt="Screenshot from 2024-11-10 04-23-39" src="https://github.com/user-attachments/assets/f303776c-33eb-41d8-bc9c-43e36a5a9338" />
 
 <img width="4000" height="4000" alt="Screenshot from 2024-11-10 04-23-28" src="https://github.com/user-attachments/assets/91b3ff88-d25a-4920-ae35-7780c0244622" />
 
